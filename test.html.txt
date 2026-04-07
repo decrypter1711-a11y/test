@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Vercel Site</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; margin-top: 50px; }
+        h1 { color: #0070f3; }
+    </style>
+</head>
+<body>
+    <h1>Hello, Vercel!</h1>
+    <p>My simple HTML site is live.</p>
+</body>
+</html>
